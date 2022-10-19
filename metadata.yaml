@@ -1,0 +1,26 @@
+_repo: The-conservation-of-energy_69053
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stewart, Balfour
+    gutenberg_agent_id: '55074'
+    url: http://www.gutenberg.org/2009/agents/55074
+description: ''
+gutenberg_issued: '2022-09-27'
+identifiers:
+  gutenberg: '69053'
+language: en
+pgterms:marc904: https://archive.org/details/conservofener00stewrich/page/n7/mode/2up
+pgterms:marc905: 20220611183806stewart
+pgterms:marc906: '1875'
+pgterms:marc907: US
+production_note: Nina Akalis and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :D. Appleton and Company,1875.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The conservation of energy
+url: http://www.gutenberg.org/ebooks/69053
